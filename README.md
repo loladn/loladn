@@ -24,4 +24,4 @@ Passionnée par l'automatisation et la création d'outils qui simplifient la vie
 ---
 
 ### Me contacter
-* [Mon Portfolio](github.com/loladn/portfolio)
+* [Mon Portfolio](https://loladn.github.io/portfolio/)
