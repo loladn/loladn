@@ -17,12 +17,11 @@ Passionnée par l'automatisation et la création d'outils qui simplifient la vie
 
 ### Mes Statistiques GitHub
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=[TON_USERNAME]&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TON_USERNAME]&layout=compact&theme=tokyonight&hide_border=true" alt="Langages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=loladn&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loladn&layout=compact&theme=tokyonight&hide_border=true" alt="Langages" />
 </p>
 
 ---
 
 ### Me contacter
-* [LinkedIn](Lien_vers_ton_linkedin)
-* [Mon Portfolio](Lien_vers_ton_site)
+* [Mon Portfolio](github.com/loladn/portfolio)
