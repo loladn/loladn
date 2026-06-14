@@ -1,8 +1,6 @@
 # Bonjour, je suis Lola ! 👋
 ### Étudiante en Data science | Développeuse informatique décisionnelle
 
-Passionnée par l'automatisation et la création d'outils qui simplifient la vie. J'aime transformer des problèmes complexes en code propre et efficace.
-
 ---
 
 ## Ma Stack Technique
