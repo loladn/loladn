@@ -1,5 +1,5 @@
-# Bonjour, je suis Lola ! 👋
-### Étudiante en Data science | Développeuse informatique décisionnelle
+# Bonjour, je suis Lola ! 
+### Étudiante en Data science
 
 ---
 
